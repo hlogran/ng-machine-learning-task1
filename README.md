@@ -2,11 +2,11 @@
 (https://www.coursera.org/learn/machine-learning)
 This is the solution for the Task 1 of Andrew Ng's Machine Learning Course
 
-- Logistic Regression
-- Regularized Logistic Regression
+- Linear regression with one variable
+- Linear regression with multiple variables
 
 Technologies:
 ======
 - Machine Learning
-- Octave
+- MATLAB / Octave
 
